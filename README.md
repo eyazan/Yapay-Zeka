@@ -1,0 +1,2 @@
+# Yapay-Zeka
+GlobalAI Egitim
